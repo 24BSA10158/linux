@@ -5,9 +5,8 @@ Institution: VITyarthi
 
 ## Student Details
 
-- Student Name: Daman Chadha
-- Registration Number: 24BCE10240
-- Slot: B22
+- Student Name: Arjun Vasishtha
+- Registration Number: 24BSA10158
 - Date of Submission: 31-03-26
 - Chosen Software: Apache HTTP Server
 - Execution Platform: Fedora Linux 43
@@ -17,7 +16,7 @@ Institution: VITyarthi
 ```text
 VITYA/
 ├── report/
-│   └── vityarthiOSS_24BCE10240_Daman_Chadha.pdf  # Final Audit Report
+│   └── vityarthiOSS_24BSA10158_Arjun Vasishtha.pdf  # Final Audit Report
 ├── scripts/
 │   ├── 01_system_identity_report.sh           # Script 1: System Identity
 │   ├── 02_foss_package_inspector.sh           # Script 2: Package Inspector
